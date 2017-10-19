@@ -26,7 +26,7 @@ linkerd is hosted by the Cloud Native Computing Foundation ([CNCF][cncf]).
 ## Want to try it? ##
 
 We distribute binaries which you can download from the [linkerd releases
-page](/releases). We also publish docker images for each release, which you can
+page](../../linkerd/releases). We also publish docker images for each release, which you can
 find on [docker hub][docker].
 
 For instructions on how to configure and run linkerd, see the [user
